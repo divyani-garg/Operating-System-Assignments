@@ -1,0 +1,3 @@
+# Operating-System-Assignments
+
+ These will help you in solving some basic shell problems and gives you brief description of some linux commands. Please don't mis use this, first of all try at you own...
